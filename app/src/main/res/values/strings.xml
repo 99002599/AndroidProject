@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="play">Play</string>
+    <string name="click">Click</string>
+    <string name="signin">signin</string>
+
+</resources>
